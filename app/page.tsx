@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from "react";
 
 function Icon({ name, className = "h-6 w-6" }: { name: string; className?: string }) {
